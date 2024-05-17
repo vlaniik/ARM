@@ -1,0 +1,10 @@
+﻿  Auth.cpp
+C:\Users\user\Desktop\Творческая работа\Device_Service\Device_Service\Auth.cpp(7,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  clientAuth.cpp
+  clientMenu.cpp
+  masterAuth.cpp
+  masterMenu.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  Auth.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Device_Service.vcxproj -> C:\Users\user\Desktop\Творческая работа\Device_Service\x64\Debug\Device_Service.exe

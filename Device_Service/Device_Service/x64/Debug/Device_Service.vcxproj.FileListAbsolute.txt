@@ -1,0 +1,21 @@
+C:\Users\user\Desktop\лабы_время_отсутсвия\ООП\7 лаба\Device_Service\Device_Service\x64\Debug\Device_Service.vcxproj.AssemblyReference.cache
+C:\Users\user\Desktop\лабы_время_отсутсвия\ООП\7 лаба\Device_Service\Device_Service\x64\Debug\DeviceService.Auth.resources
+C:\Users\user\Desktop\лабы_время_отсутсвия\ООП\7 лаба\Device_Service\Device_Service\x64\Debug\Device_Service.vcxproj.GenerateResource.cache
+C:\Users\user\Desktop\лабы_время_отсутсвия\ООП\7 лаба\Device_Service\Device_Service\x64\Debug\DeviceService.masterAuth.resources
+C:\Users\user\Desktop\лабы_время_отсутсвия\ООП\7 лаба\Device_Service\Device_Service\x64\Debug\DeviceService.clientAuth.resources
+C:\Users\user\Desktop\лабы_время_отсутсвия\ООП\7 лаба\Device_Service\Device_Service\x64\Debug\DeviceService.clientMenu.resources
+C:\Users\user\Desktop\лабы_время_отсутсвия\ООП\7 лаба\Device_Service\Device_Service\x64\Debug\DeviceService.masterMenu.resources
+C:\Users\user\Desktop\Device_Service\Device_Service\x64\Debug\Device_Service.vcxproj.AssemblyReference.cache
+C:\Users\user\Desktop\Device_Service\Device_Service\x64\Debug\DeviceService.Auth.resources
+C:\Users\user\Desktop\Device_Service\Device_Service\x64\Debug\DeviceService.clientAuth.resources
+C:\Users\user\Desktop\Device_Service\Device_Service\x64\Debug\DeviceService.clientMenu.resources
+C:\Users\user\Desktop\Device_Service\Device_Service\x64\Debug\DeviceService.masterAuth.resources
+C:\Users\user\Desktop\Device_Service\Device_Service\x64\Debug\DeviceService.masterMenu.resources
+C:\Users\user\Desktop\Device_Service\Device_Service\x64\Debug\Device_Service.vcxproj.GenerateResource.cache
+C:\Users\user\Desktop\Творческая работа\Device_Service\Device_Service\x64\Debug\Device_Service.vcxproj.AssemblyReference.cache
+C:\Users\user\Desktop\Творческая работа\Device_Service\Device_Service\x64\Debug\DeviceService.Auth.resources
+C:\Users\user\Desktop\Творческая работа\Device_Service\Device_Service\x64\Debug\DeviceService.clientAuth.resources
+C:\Users\user\Desktop\Творческая работа\Device_Service\Device_Service\x64\Debug\DeviceService.clientMenu.resources
+C:\Users\user\Desktop\Творческая работа\Device_Service\Device_Service\x64\Debug\DeviceService.masterAuth.resources
+C:\Users\user\Desktop\Творческая работа\Device_Service\Device_Service\x64\Debug\DeviceService.masterMenu.resources
+C:\Users\user\Desktop\Творческая работа\Device_Service\Device_Service\x64\Debug\Device_Service.vcxproj.GenerateResource.cache
